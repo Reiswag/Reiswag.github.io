@@ -104,7 +104,7 @@ body {
 }
 
 .jumbotron {
-  background: url(https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/318420176_196267836308795_1823191703928696448_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_tYa4jUTzloAX_GSjMA&_nc_ht=scontent-hou1-1.xx&oh=00_AfC8rKYL-xnxaFxukhA1a_eObNJ0pxWr8MNFdhHejE-SeA&oe=63EE2CB5) center center;
+  background: url("Images/Landscape.jpg") center center;
   background-size: cover;
   height: 600px; 
   
